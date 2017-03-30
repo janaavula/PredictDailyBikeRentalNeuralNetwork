@@ -2,7 +2,7 @@
 
 # Install instructions
 
-# 1) Download anaconda 
+### 1) Download anaconda 
 # 2) Create a new conda environment:
 #  conda create --name dlnd python=3
 # 3) Enter your new environment:
