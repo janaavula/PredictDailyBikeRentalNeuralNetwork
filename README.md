@@ -9,4 +9,5 @@
 ####  Mac/Linux: >> source activate dlnd
 ####  Windows: >> activate dlnd
 #### 4) conda install numpy matplotlib pandas jupyter notebook
-#### 5) jupyter notebook dlnd-your-first-neural-network.ipynb
+#### 5) jupyter notebook Predict_Daily_Bike_Rental_TimeSeriesData_NeuralNetwork.ipynb
+
